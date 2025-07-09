@@ -1,0 +1,77 @@
+Prompt Log Entry 1
+
+Prompt:
+“How can I use Flexbox to center text and a button in a hero section?”
+
+AI Response Summary:
+Told me to use display: flex; justify-content: center; align-items: center; height: 100vh.
+
+My Implementation:
+Used display: flex, centered content in .hero section, and removed height to make it mobile-friendly.
+
+Reflection:
+Prompt was clear. Helped me understand vertical alignment in Flexbox well.
+
+⸻
+
+Prompt Log Entry 2
+
+Prompt:
+“How to create a modern navigation bar with hover transitions?”
+
+AI Response Summary:
+Recommended using transition: color 0.3s ease; with a base color and a hover color.
+
+My Implementation:
+Added white text as base, blue hover in nav a:hover, and a smooth transition.
+
+Reflection:
+Great for improving interactivity. Clean, simple, and modern look with minimal code.
+
+⸻
+
+Prompt Log Entry 3
+
+Prompt:
+“How to use CSS Grid to layout product cards responsively?”
+
+AI Response Summary:
+Told me to use grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) and add a gap.
+
+My Implementation:
+Implemented a responsive .products grid that adapts to screen size without breaking layout.
+
+Reflection:
+Loved how fluid it became. AI saved time figuring out responsive logic.
+
+⸻
+
+Prompt Log Entry 4
+
+Prompt:
+“What’s the best way to style a call-to-action button with hover effect?”
+
+AI Response Summary:
+Use transition, change background-color and color, and add border-radius.
+
+My Implementation:
+Styled both .hero button and .product-card button with gradient-like colors and hover effects.
+
+Reflection:
+Prompt taught me reusable button design tricks. They feel more interactive now.
+
+⸻
+
+Prompt Log Entry 5
+
+Prompt:
+“How can I add a smooth card hover effect using CSS?”
+
+AI Response Summary:
+Suggested adding transition and transform: translateY(-5px) on :hover.
+
+My Implementation:
+Used it on .product-card:hover for a subtle lift effect.
+
+Reflection:
+Instant polish. Easy to implement and adds visual feedback on interaction.
